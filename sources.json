@@ -1,0 +1,450 @@
+[
+ {
+  "section": "India",
+  "feed": "The Hindu National",
+  "publisher": "The Hindu",
+  "kind": "publisher",
+  "url": "https://www.thehindu.com/news/national/feeder/default.rss"
+ },
+ {
+  "section": "India",
+  "feed": "BBC India",
+  "publisher": "BBC",
+  "kind": "publisher",
+  "url": "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml"
+ },
+ {
+  "section": "India",
+  "feed": "NDTV India",
+  "publisher": "NDTV",
+  "kind": "publisher",
+  "url": "https://feeds.feedburner.com/ndtvnews-india-news"
+ },
+ {
+  "section": "India",
+  "feed": "Hindustan Times India",
+  "publisher": "Hindustan Times",
+  "kind": "publisher",
+  "url": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"
+ },
+ {
+  "section": "India",
+  "feed": "Times of India India",
+  "publisher": "Times of India",
+  "kind": "publisher",
+  "url": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms"
+ },
+ {
+  "section": "India",
+  "feed": "Scroll",
+  "publisher": "Scroll",
+  "kind": "publisher",
+  "url": "https://feeds.feedburner.com/ScrollinArticles.rss"
+ },
+ {
+  "section": "India",
+  "feed": "The News Minute",
+  "publisher": "The News Minute",
+  "kind": "publisher",
+  "url": "https://www.thenewsminute.com/stories.rss"
+ },
+ {
+  "section": "India",
+  "feed": "Google News India",
+  "publisher": "",
+  "kind": "gnews",
+  "url": "https://news.google.com/rss/headlines/section/topic/NATION?hl=en-IN&gl=IN&ceid=IN:en"
+ },
+ {
+  "section": "World",
+  "feed": "The Hindu International",
+  "publisher": "The Hindu",
+  "kind": "publisher",
+  "url": "https://www.thehindu.com/news/international/feeder/default.rss"
+ },
+ {
+  "section": "World",
+  "feed": "BBC World",
+  "publisher": "BBC",
+  "kind": "publisher",
+  "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+ },
+ {
+  "section": "World",
+  "feed": "Al Jazeera",
+  "publisher": "Al Jazeera",
+  "kind": "publisher",
+  "url": "https://www.aljazeera.com/xml/rss/all.xml"
+ },
+ {
+  "section": "World",
+  "feed": "The Guardian World",
+  "publisher": "The Guardian",
+  "kind": "publisher",
+  "url": "https://www.theguardian.com/world/rss"
+ },
+ {
+  "section": "World",
+  "feed": "Google News World",
+  "publisher": "",
+  "kind": "gnews",
+  "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-IN&gl=IN&ceid=IN:en"
+ },
+ {
+  "section": "Bengaluru",
+  "feed": "The Hindu Bengaluru",
+  "publisher": "The Hindu",
+  "kind": "publisher",
+  "url": "https://www.thehindu.com/news/cities/bangalore/feeder/default.rss"
+ },
+ {
+  "section": "Bengaluru",
+  "feed": "Times of India Bengaluru",
+  "publisher": "Times of India",
+  "kind": "publisher",
+  "url": "https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms"
+ },
+ {
+  "section": "Bengaluru",
+  "feed": "Hindustan Times Bengaluru",
+  "publisher": "Hindustan Times",
+  "kind": "publisher",
+  "url": "https://www.hindustantimes.com/feeds/rss/cities/bengaluru-news/rssfeed.xml"
+ },
+ {
+  "section": "Bengaluru",
+  "feed": "Google News Bengaluru",
+  "publisher": "",
+  "kind": "gnews",
+  "url": "https://news.google.com/rss/search?q=Bengaluru%20when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
+ },
+ {
+  "section": "Hyderabad",
+  "feed": "The Hindu Hyderabad",
+  "publisher": "The Hindu",
+  "kind": "publisher",
+  "url": "https://www.thehindu.com/news/cities/Hyderabad/feeder/default.rss"
+ },
+ {
+  "section": "Hyderabad",
+  "feed": "Times of India Hyderabad",
+  "publisher": "Times of India",
+  "kind": "publisher",
+  "url": "https://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms"
+ },
+ {
+  "section": "Hyderabad",
+  "feed": "Google News Hyderabad",
+  "publisher": "",
+  "kind": "gnews",
+  "url": "https://news.google.com/rss/search?q=Hyderabad%20when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
+ },
+ {
+  "section": "Business",
+  "feed": "The Hindu Business",
+  "publisher": "The Hindu",
+  "kind": "publisher",
+  "url": "https://www.thehindu.com/business/feeder/default.rss"
+ },
+ {
+  "section": "Business",
+  "feed": "Mint",
+  "publisher": "Mint",
+  "kind": "publisher",
+  "url": "https://www.livemint.com/rss/news"
+ },
+ {
+  "section": "Business",
+  "feed": "Mint Companies",
+  "publisher": "Mint",
+  "kind": "publisher",
+  "url": "https://www.livemint.com/rss/companies"
+ },
+ {
+  "section": "Business",
+  "feed": "Economic Times",
+  "publisher": "Economic Times",
+  "kind": "publisher",
+  "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms"
+ },
+ {
+  "section": "Business",
+  "feed": "BusinessLine",
+  "publisher": "BusinessLine",
+  "kind": "publisher",
+  "url": "https://www.thehindubusinessline.com/feeder/default.rss"
+ },
+ {
+  "section": "Business",
+  "feed": "BBC Business",
+  "publisher": "BBC",
+  "kind": "publisher",
+  "url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+ },
+ {
+  "section": "Business",
+  "feed": "Google News Business",
+  "publisher": "",
+  "kind": "gnews",
+  "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en"
+ },
+ {
+  "section": "Sports",
+  "feed": "The Hindu Sport",
+  "publisher": "The Hindu",
+  "kind": "publisher",
+  "url": "https://www.thehindu.com/sport/feeder/default.rss"
+ },
+ {
+  "section": "Sports",
+  "feed": "The Hindu Cricket",
+  "publisher": "The Hindu",
+  "kind": "publisher",
+  "url": "https://www.thehindu.com/sport/cricket/feeder/default.rss"
+ },
+ {
+  "section": "Sports",
+  "feed": "Sportstar",
+  "publisher": "Sportstar",
+  "kind": "publisher",
+  "url": "https://sportstar.thehindu.com/feeder/default.rss"
+ },
+ {
+  "section": "Sports",
+  "feed": "ESPNcricinfo",
+  "publisher": "ESPNcricinfo",
+  "kind": "publisher",
+  "url": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+ },
+ {
+  "section": "Sports",
+  "feed": "BBC Sport",
+  "publisher": "BBC",
+  "kind": "publisher",
+  "url": "https://feeds.bbci.co.uk/sport/rss.xml"
+ },
+ {
+  "section": "Sports",
+  "feed": "BBC Cricket",
+  "publisher": "BBC",
+  "kind": "publisher",
+  "url": "https://feeds.bbci.co.uk/sport/cricket/rss.xml"
+ },
+ {
+  "section": "Sports",
+  "feed": "Hindustan Times Cricket",
+  "publisher": "Hindustan Times",
+  "kind": "publisher",
+  "url": "https://www.hindustantimes.com/feeds/rss/cricket/rssfeed.xml"
+ },
+ {
+  "section": "Sports",
+  "feed": "Hindustan Times Sports",
+  "publisher": "Hindustan Times",
+  "kind": "publisher",
+  "url": "https://www.hindustantimes.com/feeds/rss/sports/rssfeed.xml"
+ },
+ {
+  "section": "Sports",
+  "feed": "Times of India Sports",
+  "publisher": "Times of India",
+  "kind": "publisher",
+  "url": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"
+ },
+ {
+  "section": "Sports",
+  "feed": "Google News Sports",
+  "publisher": "",
+  "kind": "gnews",
+  "url": "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-IN&gl=IN&ceid=IN:en"
+ },
+ {
+  "section": "Sports",
+  "feed": "Google News India cricket",
+  "publisher": "",
+  "kind": "gnews",
+  "url": "https://news.google.com/rss/search?q=India%20cricket%20team%20when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
+ },
+ {
+  "section": "Movies",
+  "feed": "The Hindu Movies",
+  "publisher": "The Hindu",
+  "kind": "publisher",
+  "url": "https://www.thehindu.com/entertainment/movies/feeder/default.rss"
+ },
+ {
+  "section": "Movies",
+  "feed": "The Hindu Reviews",
+  "publisher": "The Hindu",
+  "kind": "publisher",
+  "url": "https://www.thehindu.com/entertainment/reviews/feeder/default.rss"
+ },
+ {
+  "section": "Movies",
+  "feed": "Hindustan Times Entertainment",
+  "publisher": "Hindustan Times",
+  "kind": "publisher",
+  "url": "https://www.hindustantimes.com/feeds/rss/entertainment/rssfeed.xml"
+ },
+ {
+  "section": "Movies",
+  "feed": "Hindustan Times Bollywood",
+  "publisher": "Hindustan Times",
+  "kind": "publisher",
+  "url": "https://www.hindustantimes.com/feeds/rss/entertainment/bollywood/rssfeed.xml"
+ },
+ {
+  "section": "Movies",
+  "feed": "Hindustan Times Telugu cinema",
+  "publisher": "Hindustan Times",
+  "kind": "publisher",
+  "url": "https://www.hindustantimes.com/feeds/rss/entertainment/telugu-cinema/rssfeed.xml"
+ },
+ {
+  "section": "Movies",
+  "feed": "Hindustan Times Tamil cinema",
+  "publisher": "Hindustan Times",
+  "kind": "publisher",
+  "url": "https://www.hindustantimes.com/feeds/rss/entertainment/tamil-cinema/rssfeed.xml"
+ },
+ {
+  "section": "Movies",
+  "feed": "Times of India Entertainment",
+  "publisher": "Times of India",
+  "kind": "publisher",
+  "url": "https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms"
+ },
+ {
+  "section": "Movies",
+  "feed": "Bollywood Hungama",
+  "publisher": "Bollywood Hungama",
+  "kind": "publisher",
+  "url": "https://www.bollywoodhungama.com/rss/news.xml"
+ },
+ {
+  "section": "Movies",
+  "feed": "Cinema Express",
+  "publisher": "Cinema Express",
+  "kind": "publisher",
+  "url": "https://www.cinemaexpress.com/stories.rss"
+ },
+ {
+  "section": "Movies",
+  "feed": "123telugu",
+  "publisher": "123telugu",
+  "kind": "publisher",
+  "url": "https://www.123telugu.com/feed"
+ },
+ {
+  "section": "Movies",
+  "feed": "The Guardian Film",
+  "publisher": "The Guardian",
+  "kind": "publisher",
+  "url": "https://www.theguardian.com/film/rss"
+ },
+ {
+  "section": "Movies",
+  "feed": "Google News Entertainment",
+  "publisher": "",
+  "kind": "gnews",
+  "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en"
+ },
+ {
+  "section": "Movies",
+  "feed": "Google News Telugu movies",
+  "publisher": "",
+  "kind": "gnews",
+  "url": "https://news.google.com/rss/search?q=Telugu%20movie%20when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
+ },
+ {
+  "section": "Movies",
+  "feed": "Google News Kannada movies",
+  "publisher": "",
+  "kind": "gnews",
+  "url": "https://news.google.com/rss/search?q=Kannada%20movie%20when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
+ },
+ {
+  "section": "Movies",
+  "feed": "Google News Tamil movies",
+  "publisher": "",
+  "kind": "gnews",
+  "url": "https://news.google.com/rss/search?q=Tamil%20movie%20when%3A2d&hl=en-IN&gl=IN&ceid=IN:en"
+ },
+ {
+  "section": "Tech/Science",
+  "feed": "MIT Technology Review AI",
+  "publisher": "MIT Technology Review",
+  "kind": "publisher",
+  "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+ },
+ {
+  "section": "Tech/Science",
+  "feed": "The Verge AI",
+  "publisher": "The Verge",
+  "kind": "publisher",
+  "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+ },
+ {
+  "section": "Tech/Science",
+  "feed": "The Hindu Science",
+  "publisher": "The Hindu",
+  "kind": "publisher",
+  "url": "https://www.thehindu.com/sci-tech/science/feeder/default.rss"
+ },
+ {
+  "section": "Tech/Science",
+  "feed": "The Hindu Technology",
+  "publisher": "The Hindu",
+  "kind": "publisher",
+  "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss"
+ },
+ {
+  "section": "Tech/Science",
+  "feed": "Ars Technica",
+  "publisher": "Ars Technica",
+  "kind": "publisher",
+  "url": "https://feeds.arstechnica.com/arstechnica/index"
+ },
+ {
+  "section": "Tech/Science",
+  "feed": "TechCrunch",
+  "publisher": "TechCrunch",
+  "kind": "publisher",
+  "url": "https://techcrunch.com/feed/"
+ },
+ {
+  "section": "Tech/Science",
+  "feed": "BBC Technology",
+  "publisher": "BBC",
+  "kind": "publisher",
+  "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+ },
+ {
+  "section": "Tech/Science",
+  "feed": "BBC Science",
+  "publisher": "BBC",
+  "kind": "publisher",
+  "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+ },
+ {
+  "section": "Tech/Science",
+  "feed": "Nature News",
+  "publisher": "Nature",
+  "kind": "publisher",
+  "url": "https://www.nature.com/nature.rss"
+ },
+ {
+  "section": "Tech/Science",
+  "feed": "Google News Technology",
+  "publisher": "",
+  "kind": "gnews",
+  "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-IN&gl=IN&ceid=IN:en"
+ },
+ {
+  "section": "Tech/Science",
+  "feed": "Google News Science",
+  "publisher": "",
+  "kind": "gnews",
+  "url": "https://news.google.com/rss/headlines/section/topic/SCIENCE?hl=en-IN&gl=IN&ceid=IN:en"
+ }
+]
