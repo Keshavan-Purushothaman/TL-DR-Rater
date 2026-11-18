@@ -1,39 +1,7 @@
 {
  "feeds": [
   {
-   "feed": "The Hindu National",
-   "section": "India",
-   "ok": true,
-   "raw": 60,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "BBC India",
-   "section": "India",
-   "ok": true,
-   "raw": 23,
-   "kept": 3,
-   "error": ""
-  },
-  {
    "feed": "NDTV India",
-   "section": "India",
-   "ok": true,
-   "raw": 20,
-   "kept": 20,
-   "error": ""
-  },
-  {
-   "feed": "Hindustan Times India",
-   "section": "India",
-   "ok": true,
-   "raw": 100,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "Times of India India",
    "section": "India",
    "ok": true,
    "raw": 20,
@@ -49,51 +17,11 @@
    "error": ""
   },
   {
-   "feed": "The News Minute",
-   "section": "India",
-   "ok": true,
-   "raw": 2,
-   "kept": 1,
-   "error": ""
-  },
-  {
    "feed": "Google News India",
    "section": "India",
    "ok": true,
-   "raw": 60,
+   "raw": 69,
    "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "The Hindu International",
-   "section": "World",
-   "ok": true,
-   "raw": 60,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "BBC World",
-   "section": "World",
-   "ok": true,
-   "raw": 32,
-   "kept": 29,
-   "error": ""
-  },
-  {
-   "feed": "Al Jazeera",
-   "section": "World",
-   "ok": true,
-   "raw": 25,
-   "kept": 14,
-   "error": ""
-  },
-  {
-   "feed": "The Guardian World",
-   "section": "World",
-   "ok": true,
-   "raw": 45,
-   "kept": 37,
    "error": ""
   },
   {
@@ -105,51 +33,11 @@
    "error": ""
   },
   {
-   "feed": "The Hindu Bengaluru",
-   "section": "Bengaluru",
-   "ok": true,
-   "raw": 60,
-   "kept": 25,
-   "error": ""
-  },
-  {
-   "feed": "Times of India Bengaluru",
-   "section": "Bengaluru",
-   "ok": true,
-   "raw": 20,
-   "kept": 20,
-   "error": ""
-  },
-  {
-   "feed": "Hindustan Times Bengaluru",
-   "section": "Bengaluru",
-   "ok": true,
-   "raw": 1,
-   "kept": 1,
-   "error": ""
-  },
-  {
    "feed": "Google News Bengaluru",
    "section": "Bengaluru",
    "ok": true,
    "raw": 100,
    "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "The Hindu Hyderabad",
-   "section": "Hyderabad",
-   "ok": true,
-   "raw": 60,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "Times of India Hyderabad",
-   "section": "Hyderabad",
-   "ok": true,
-   "raw": 20,
-   "kept": 20,
    "error": ""
   },
   {
@@ -161,54 +49,6 @@
    "error": ""
   },
   {
-   "feed": "The Hindu Business",
-   "section": "Business",
-   "ok": true,
-   "raw": 60,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "Mint",
-   "section": "Business",
-   "ok": true,
-   "raw": 35,
-   "kept": 34,
-   "error": ""
-  },
-  {
-   "feed": "Mint Companies",
-   "section": "Business",
-   "ok": true,
-   "raw": 35,
-   "kept": 35,
-   "error": ""
-  },
-  {
-   "feed": "Economic Times",
-   "section": "Business",
-   "ok": true,
-   "raw": 52,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "BusinessLine",
-   "section": "Business",
-   "ok": true,
-   "raw": 60,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "BBC Business",
-   "section": "Business",
-   "ok": true,
-   "raw": 46,
-   "kept": 21,
-   "error": ""
-  },
-  {
    "feed": "Google News Business",
    "section": "Business",
    "ok": true,
@@ -217,82 +57,10 @@
    "error": ""
   },
   {
-   "feed": "The Hindu Sport",
-   "section": "Sports",
-   "ok": true,
-   "raw": 60,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "The Hindu Cricket",
-   "section": "Sports",
-   "ok": true,
-   "raw": 60,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "Sportstar",
-   "section": "Sports",
-   "ok": true,
-   "raw": 80,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "ESPNcricinfo",
-   "section": "Sports",
-   "ok": true,
-   "raw": 100,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "BBC Sport",
-   "section": "Sports",
-   "ok": true,
-   "raw": 68,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "BBC Cricket",
-   "section": "Sports",
-   "ok": true,
-   "raw": 31,
-   "kept": 12,
-   "error": ""
-  },
-  {
-   "feed": "Hindustan Times Cricket",
-   "section": "Sports",
-   "ok": true,
-   "raw": 41,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "Hindustan Times Sports",
-   "section": "Sports",
-   "ok": true,
-   "raw": 25,
-   "kept": 25,
-   "error": ""
-  },
-  {
-   "feed": "Times of India Sports",
-   "section": "Sports",
-   "ok": true,
-   "raw": 20,
-   "kept": 20,
-   "error": ""
-  },
-  {
    "feed": "Google News Sports",
    "section": "Sports",
    "ok": true,
-   "raw": 70,
+   "raw": 53,
    "kept": 40,
    "error": ""
   },
@@ -300,96 +68,8 @@
    "feed": "Google News India cricket",
    "section": "Sports",
    "ok": true,
-   "raw": 99,
+   "raw": 100,
    "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "The Hindu Movies",
-   "section": "Movies",
-   "ok": true,
-   "raw": 60,
-   "kept": 13,
-   "error": ""
-  },
-  {
-   "feed": "The Hindu Reviews",
-   "section": "Movies",
-   "ok": true,
-   "raw": 60,
-   "kept": 5,
-   "error": ""
-  },
-  {
-   "feed": "Hindustan Times Entertainment",
-   "section": "Movies",
-   "ok": true,
-   "raw": 74,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "Hindustan Times Bollywood",
-   "section": "Movies",
-   "ok": true,
-   "raw": 38,
-   "kept": 38,
-   "error": ""
-  },
-  {
-   "feed": "Hindustan Times Telugu cinema",
-   "section": "Movies",
-   "ok": true,
-   "raw": 3,
-   "kept": 3,
-   "error": ""
-  },
-  {
-   "feed": "Hindustan Times Tamil cinema",
-   "section": "Movies",
-   "ok": true,
-   "raw": 2,
-   "kept": 2,
-   "error": ""
-  },
-  {
-   "feed": "Times of India Entertainment",
-   "section": "Movies",
-   "ok": true,
-   "raw": 20,
-   "kept": 19,
-   "error": ""
-  },
-  {
-   "feed": "Bollywood Hungama",
-   "section": "Movies",
-   "ok": true,
-   "raw": 50,
-   "kept": 26,
-   "error": ""
-  },
-  {
-   "feed": "Cinema Express",
-   "section": "Movies",
-   "ok": true,
-   "raw": 6,
-   "kept": 6,
-   "error": ""
-  },
-  {
-   "feed": "123telugu",
-   "section": "Movies",
-   "ok": true,
-   "raw": 30,
-   "kept": 22,
-   "error": ""
-  },
-  {
-   "feed": "The Guardian Film",
-   "section": "Movies",
-   "ok": true,
-   "raw": 29,
-   "kept": 9,
    "error": ""
   },
   {
@@ -412,87 +92,15 @@
    "feed": "Google News Kannada movies",
    "section": "Movies",
    "ok": true,
-   "raw": 35,
-   "kept": 34,
+   "raw": 33,
+   "kept": 33,
    "error": ""
   },
   {
    "feed": "Google News Tamil movies",
    "section": "Movies",
    "ok": true,
-   "raw": 100,
-   "kept": 40,
-   "error": ""
-  },
-  {
-   "feed": "MIT Technology Review AI",
-   "section": "Tech/Science",
-   "ok": true,
-   "raw": 10,
-   "kept": 4,
-   "error": ""
-  },
-  {
-   "feed": "The Verge AI",
-   "section": "Tech/Science",
-   "ok": true,
-   "raw": 10,
-   "kept": 10,
-   "error": ""
-  },
-  {
-   "feed": "The Hindu Science",
-   "section": "Tech/Science",
-   "ok": true,
-   "raw": 60,
-   "kept": 7,
-   "error": ""
-  },
-  {
-   "feed": "The Hindu Technology",
-   "section": "Tech/Science",
-   "ok": true,
-   "raw": 60,
-   "kept": 14,
-   "error": ""
-  },
-  {
-   "feed": "Ars Technica",
-   "section": "Tech/Science",
-   "ok": true,
-   "raw": 20,
-   "kept": 20,
-   "error": ""
-  },
-  {
-   "feed": "TechCrunch",
-   "section": "Tech/Science",
-   "ok": true,
-   "raw": 20,
-   "kept": 20,
-   "error": ""
-  },
-  {
-   "feed": "BBC Technology",
-   "section": "Tech/Science",
-   "ok": true,
-   "raw": 21,
-   "kept": 12,
-   "error": ""
-  },
-  {
-   "feed": "BBC Science",
-   "section": "Tech/Science",
-   "ok": true,
-   "raw": 42,
-   "kept": 18,
-   "error": ""
-  },
-  {
-   "feed": "Nature News",
-   "section": "Tech/Science",
-   "ok": true,
-   "raw": 75,
+   "raw": 83,
    "kept": 40,
    "error": ""
   },
@@ -514,192 +122,38 @@
   }
  ],
  "dropped": {
-  "video": 56,
-  "live": 25,
-  "opinion": 13,
-  "listing": 10,
-  "letters": 3,
-  "quiz": 5,
-  "podcast": 4,
-  "gallery": 7,
-  "horoscope": 3,
-  "digest": 2
+  "video": 9,
+  "listing": 9,
+  "live": 9,
+  "horoscope": 4,
+  "gallery": 1,
+  "puzzle": 1
  },
  "dropped_sample": [
   {
    "reason": "video",
-   "feed": "The Hindu National",
-   "title": "Three cyclones hit AP this month: Why is the Bay of Bengal so active? Expert explains"
+   "feed": "Scroll",
+   "title": "Why the killing of an anti-drug activist has Punjab up in arms"
   },
   {
    "reason": "video",
-   "feed": "The Hindu National",
-   "title": "Wanted LeT terrorist Lateef Bhat killed in Kulgam, ending 8-day anti-terror operation"
-  },
-  {
-   "reason": "live",
-   "feed": "The Hindu National",
-   "title": "Cyclone 'Akvan' LIVE updates: Akvan likely to cross between Machilipatnam and Puri, says APSDMA"
+   "feed": "Scroll",
+   "title": "Watch: ‘Jijai’ stars Rinku Rajguru as a fighter against harassment and violence"
   },
   {
    "reason": "video",
-   "feed": "BBC India",
-   "title": "Prince and Princess of Wales play street cricket in Mumbai"
+   "feed": "Scroll",
+   "title": "Helle Lyng on visa cancellation: ‘I was told it is on orders from above’"
   },
   {
    "reason": "video",
-   "feed": "BBC India",
-   "title": "Film star Ranbir Kapoor on AI, movies and fatherhood"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC India",
-   "title": "Workers filmed around the clock to train AI to do their jobs"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC India",
-   "title": "Why is Gen Z protesting around the world?"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC India",
-   "title": "Moment 'Cockroach' leader detained ahead of march"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC India",
-   "title": "Watch: 'Cockroach' protester detained minutes after BBC interview"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC India",
-   "title": "Flydubai pilot describes cockpit attack by co-pilot"
-  },
-  {
-   "reason": "live",
-   "feed": "Hindustan Times India",
-   "title": "Cyclone Akvan LIVE: Andhra on red alert for extremely heavy rain; Odisha announces school closures, postpones "
-  },
-  {
-   "reason": "opinion",
-   "feed": "The News Minute",
-   "title": "Opinion: A fair umpire cannot fix India's tilted electoral playing field"
-  },
-  {
-   "reason": "live",
-   "feed": "Google News India",
-   "title": "Cyclone 'Akvan' LIVE updates: Akvan likely to cross between Machilipatnam and Puri, says APSDMA"
-  },
-  {
-   "reason": "video",
-   "feed": "Google News India",
-   "title": "Is Delhi High Court biting off more than it can chew? [WATCH VIDEO]"
-  },
-  {
-   "reason": "opinion",
-   "feed": "The Hindu International",
-   "title": "All-too fallible: On India’s vote against moratorium on death penalty"
-  },
-  {
-   "reason": "live",
-   "feed": "The Hindu International",
-   "title": "ASEAN, Quad Summit updates on November 17, 2026"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC World",
-   "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC World",
-   "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC World",
-   "title": "Millions of red crabs start annual migration on Christmas Island"
-  },
-  {
-   "reason": "video",
-   "feed": "Al Jazeera",
-   "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin"
-  },
-  {
-   "reason": "video",
-   "feed": "Al Jazeera",
-   "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected"
-  },
-  {
-   "reason": "video",
-   "feed": "Al Jazeera",
-   "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions"
-  },
-  {
-   "reason": "video",
-   "feed": "Al Jazeera",
-   "title": "Five EU nations to deport migrants to Rwanda"
-  },
-  {
-   "reason": "opinion",
-   "feed": "Al Jazeera",
-   "title": "Pax Silica is the new face of US imperialism in the Philippines"
-  },
-  {
-   "reason": "video",
-   "feed": "Al Jazeera",
-   "title": "Never played, already gone. JJ Gabriel leaves Man United"
-  },
-  {
-   "reason": "video",
-   "feed": "Al Jazeera",
-   "title": "Israeli forces demolish homes in southern Lebanon"
-  },
-  {
-   "reason": "video",
-   "feed": "Al Jazeera",
-   "title": "What’s holding South Africa’s economy back?"
-  },
-  {
-   "reason": "video",
-   "feed": "Al Jazeera",
-   "title": "Mada Masr’s Lina Attalah due to appear before court in Egypt"
-  },
-  {
-   "reason": "video",
-   "feed": "Al Jazeera",
-   "title": "How data centres are turning AI-generated heat into energy"
-  },
-  {
-   "reason": "video",
-   "feed": "Al Jazeera",
-   "title": "Ukraine mourns mother, athlete and drone operator killed in Russian strike"
-  },
-  {
-   "reason": "live",
-   "feed": "The Guardian World",
-   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’"
-  },
-  {
-   "reason": "live",
-   "feed": "The Guardian World",
-   "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – as it h"
-  },
-  {
-   "reason": "live",
-   "feed": "Google News World",
-   "title": "Trump signs Thai trade deal as protests greet his arrival in Manila – as it happened"
+   "feed": "Scroll",
+   "title": "Watch: Marathi film ‘Chikeezing’ follows a naughty boy’s adventures"
   },
   {
    "reason": "video",
    "feed": "Google News World",
-   "title": "Video: PM Modi, World Leaders Ride Through Manila In Colourful Tuk-Tuks"
-  },
-  {
-   "reason": "video",
-   "feed": "The Hindu Bengaluru",
-   "title": "Namma Metro Pink Line: Will it ease traffic congestion? | Decode Karnataka"
+   "title": "Watch: Protest outside London Indian restaurant over refusal to serve halal food"
   },
   {
    "reason": "listing",
@@ -707,251 +161,166 @@
    "title": "Bengaluru Kempegowda International Airport Departures"
   },
   {
-   "reason": "listing",
-   "feed": "Google News Hyderabad",
-   "title": "Gold Rates Today in Hyderabad: 22K, 24K Prices"
+   "reason": "live",
+   "feed": "Google News Bengaluru",
+   "title": "FC Bengaluru United vs Real Kashmir live score, H2H and lineups"
   },
   {
    "reason": "listing",
    "feed": "Google News Hyderabad",
-   "title": "Silver rate today Hyderabad, Coimbatore, Chennai, Bangalore 18 November: Check MCX prices - City wise list her"
+   "title": "Gold rate today in Hyderabad, November 15, 2026: Check 22K, 24K and 18K gold prices"
   },
   {
    "reason": "listing",
    "feed": "Google News Hyderabad",
-   "title": "Gold rate today Hyderabad, Coimbatore, Chennai, Bangalore 18 November: Check MCX, 22 carat prices - City wise "
+   "title": "Gold Rates Today In Hyderabad On Nov. 15, 2026"
   },
   {
    "reason": "listing",
    "feed": "Google News Hyderabad",
-   "title": "Gold Prices Today In Hyderabad: 22K, 24K Rates"
-  },
-  {
-   "reason": "opinion",
-   "feed": "The Hindu Business",
-   "title": "A poverty line that falls short"
+   "title": "Gold, silver prices today, 15 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai,"
   },
   {
    "reason": "listing",
-   "feed": "Mint",
-   "title": "Petrol and diesel prices today, November 18: How much does fuel cost in Delhi, Mumbai, Bengaluru?"
-  },
-  {
-   "reason": "letters",
-   "feed": "BusinessLine",
-   "title": "Letters to the Editor dated November 18, 2026"
-  },
-  {
-   "reason": "opinion",
-   "feed": "BusinessLine",
-   "title": "Editorial. Food for thought"
-  },
-  {
-   "reason": "letters",
-   "feed": "BusinessLine",
-   "title": "Letters to the Editor dated November 4, 2026"
-  },
-  {
-   "reason": "letters",
-   "feed": "BusinessLine",
-   "title": "Letters to the Editor dated November 17, 2026"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Business",
-   "title": "Immigration arrests after organised crime blitz"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Business",
-   "title": "'Parents are offering to pay kids' wages': Salon owner"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Business",
-   "title": "The rise of 'housefishing' by estate agents"
+   "feed": "Google News Hyderabad",
+   "title": "Hyderabad Rajiv Gandhi International Airport Arrivals"
   },
   {
    "reason": "listing",
    "feed": "Google News Business",
-   "title": "Gold Rate Today November 18: Check latest Gold prices in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Luc"
+   "title": "Dividend Stocks To Watch This Week: Ashok Leyland, Cochin Shipyard, MRF, Oil India, Power Finance Corporation,"
   },
   {
    "reason": "listing",
    "feed": "Google News Business",
-   "title": "Stocks to Watch for November 18: IIFL Finance, Ashoka Buildcon, Tata Group stocks and more"
+   "title": "Gold, silver prices today, 15 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai,"
   },
   {
-   "reason": "quiz",
-   "feed": "The Hindu Sport",
-   "title": "Daily Quiz: On Chess players"
-  },
-  {
-   "reason": "live",
-   "feed": "The Hindu Sport",
-   "title": "IPL 2027 retention highlights: Dhoni retires, teams announce lists of released and retained players as deadlin"
+   "reason": "listing",
+   "feed": "Google News Business",
+   "title": "Dividend stock to buy: TD Power shares rally 369% in 3 years, more upside ahead? Check target price before rec"
   },
   {
    "reason": "live",
-   "feed": "The Hindu Cricket",
-   "title": "IPL 2027 retention highlights: Dhoni retires, teams announce lists of released and retained players as deadlin"
+   "feed": "Google News Sports",
+   "title": "New Zealand: 161/8(42.4) | IND vs NZ 5th ODI Match - Live Cricket Score, Full Scorecard, Bay Oval, Mount Maung"
   },
   {
    "reason": "live",
-   "feed": "Sportstar",
-   "title": "India vs New Zealand Live Streaming Info: How to watch the 1st Test match?"
-  },
-  {
-   "reason": "opinion",
-   "feed": "Sportstar",
-   "title": "When sport meets fiction: The search for a great sports novel"
+   "feed": "Google News Sports",
+   "title": "Latest cricket news, live scores and video"
   },
   {
    "reason": "live",
-   "feed": "Sportstar",
-   "title": "PAK vs SL, 2nd Test Day 2 Highlights: Sri Lanka trails by 153 runs"
+   "feed": "Google News India cricket",
+   "title": "India tour of Japan, 2026 schedule, live scores and results"
   },
   {
    "reason": "live",
-   "feed": "Sportstar",
-   "title": "AUS vs ENG, 3rd ODI Highlights: England wins series 2-1 with 97-run victory"
-  },
-  {
-   "reason": "opinion",
-   "feed": "Sportstar",
-   "title": "Decoding the DNA of high-performing teams"
+   "feed": "Google News India cricket",
+   "title": "India vs New Zealand Free LIVE Telecast, 5th ODI LIVE Streaming: When And Where To Watch IND vs NZ For Free"
   },
   {
    "reason": "live",
-   "feed": "Sportstar",
-   "title": "Unnati Hooda vs Han Yue LIVE streaming info: Where to watch Hong Kong Open Round of 32 match?"
+   "feed": "Google News India cricket",
+   "title": "India vs Pakistan U19 Asia Cup final: When and where to watch live telecast, streaming"
   },
   {
    "reason": "live",
-   "feed": "Sportstar",
-   "title": "Anmol Kharb vs Tomoka Miyazaki LIVE streaming info: Where to watch Hong Kong Open 2026 Round of 32 match?"
+   "feed": "Google News India cricket",
+   "title": "Australia vs England, 2nd ODI Live Streaming: When And Where To Watch Live Telecast"
   },
   {
    "reason": "live",
-   "feed": "Sportstar",
-   "title": "Syed Mushtaq Ali Trophy 2026: Check Round 3 fixtures, venues, live streaming info"
+   "feed": "Google News India cricket",
+   "title": "South Africa vs Bangladesh LIVE Telecast, 1st Test LIVE Streaming: When And Where To Watch"
   },
   {
    "reason": "live",
-   "feed": "Sportstar",
-   "title": "IPL 2027 Retention HIGHLIGHTS: Dhoni retires; Starc, Head, Pathirana released ahead of auction; Check team-wis"
+   "feed": "Google News India cricket",
+   "title": "India vs New Zealand LIVE Streaming, 5th ODI LIVE Telecast: When And Where To Watch IND vs NZ"
   },
   {
    "reason": "video",
-   "feed": "BBC Sport",
-   "title": "Highlights: Ten-man Portugal beat Wales to top group"
+   "feed": "Google News India cricket",
+   "title": "WATCH: Mohit Ulva's last-ball boundary seals India's thrilling U-19 Asia Cup triumph over Pakistan"
+  },
+  {
+   "reason": "horoscope",
+   "feed": "Google News Entertainment",
+   "title": "Gemini Horoscope Today: November 15, 2026"
+  },
+  {
+   "reason": "horoscope",
+   "feed": "Google News Entertainment",
+   "title": "Libra Horoscope Today: November 15, 2026"
+  },
+  {
+   "reason": "horoscope",
+   "feed": "Google News Entertainment",
+   "title": "Taurus, Weekly Horoscope, November 15 to November 21, 2026: Welcome financial gains, career progress and"
+  },
+  {
+   "reason": "horoscope",
+   "feed": "Google News Entertainment",
+   "title": "Leo Horoscope Today: November 15, 2026"
+  },
+  {
+   "reason": "listing",
+   "feed": "Google News Telugu movies",
+   "title": "Dear Astronaut Movie: Showtimes, Review, Songs, Trailer, Posters, News & Videos | eTimes"
+  },
+  {
+   "reason": "gallery",
+   "feed": "Google News Telugu movies",
+   "title": "Photos: Celebrities Pay Their Last Respects to Giri Babu"
   },
   {
    "reason": "video",
-   "feed": "BBC Sport",
-   "title": "Watch as Scotland slump to 4-0 defeat in Switzerland"
+   "feed": "Google News Telugu movies",
+   "title": "Video : OM Telugu Trailer (Dhanush, Mammootty, Sai Pallavi)"
   },
   {
    "reason": "video",
-   "feed": "BBC Sport",
-   "title": "Chargers earn first victory of the season against the Ravens"
+   "feed": "Google News Telugu movies",
+   "title": "Video : Dada – Dada Dhamaka Lyrical ( Balakrishna, Nargis Fakhri )"
+  },
+  {
+   "reason": "puzzle",
+   "feed": "Google News Technology",
+   "title": "Today's NYT Strands Hints (and Answer) for Saturday, November 14, 2026"
   },
   {
    "reason": "video",
-   "feed": "BBC Sport",
-   "title": "From Watford to world champion"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Sport",
-   "title": "Watch: Can Northern Ireland hit the right notes in Budapest?"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Sport",
-   "title": "'Switzerland didn't have better players but were better team'"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Sport",
-   "title": "Sacks, picks and 'a bag of tricks' - NFL best plays"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Sport",
-   "title": "Every goal from the Women's Super League - matchweek 10"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Sport",
-   "title": "London City earn point in thrilling draw against Arsenal"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Sport",
-   "title": "Struggling Charlton make WSL history after defeat at West Ham"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Sport",
-   "title": "McIlroy wins Race to Dubai after thrilling final day"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Sport",
-   "title": "'They reign supreme!' - Australia beat NZ to lift World Cup again"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Sport",
-   "title": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Sport",
-   "title": "Chelsea go top with 1-0 win against Man City"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Sport",
-   "title": "Four in a row - Australia win women's rugby league World Cup again"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Sport",
-   "title": "Watch: Seven-try Ireland secure win over Fiji"
-  },
-  {
-   "reason": "video",
-   "feed": "BBC Sport",
-   "title": "Joseph enjoys dream return as England thrash Japan at Twickenham"
+   "feed": "Google News Technology",
+   "title": "Video | Adobe MAX 2026: AI Takes Over Creative Workflows | Range Rover SV Sawai | NVIDIA CEO Exit | Tech360"
   }
  ],
- "too_old": 548,
- "generated_at": "2026-11-18T17:33:41+00:00",
- "feeds_ok": 64,
- "feeds_total": 64,
- "after_filter": 1739,
- "repeats_merged": 189,
+ "too_old": 119,
+ "generated_at": "2026-11-15T10:05:23+00:00",
+ "feeds_ok": 15,
+ "feeds_total": 15,
+ "after_filter": 573,
+ "repeats_merged": 18,
  "available": {
-  "India": 191,
-  "World": 134,
-  "Bengaluru": 70,
-  "Hyderabad": 92,
-  "Business": 235,
-  "Sports": 320,
-  "Movies": 293,
-  "Tech/Science": 215
+  "India": 94,
+  "World": 37,
+  "Bengaluru": 40,
+  "Hyderabad": 40,
+  "Business": 39,
+  "Sports": 77,
+  "Movies": 148,
+  "Tech/Science": 80
  },
  "written": {
   "India": 60,
-  "World": 60,
-  "Bengaluru": 60,
-  "Hyderabad": 60,
-  "Business": 60,
+  "World": 37,
+  "Bengaluru": 40,
+  "Hyderabad": 40,
+  "Business": 39,
   "Sports": 60,
   "Movies": 60,
   "Tech/Science": 60
  },
- "seconds": 2.9
+ "seconds": 2.2
 }
