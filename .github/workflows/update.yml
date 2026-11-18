@@ -1,0 +1,41 @@
+name: Update headlines
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: update-headlines
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch headlines
+        run: python fetch_headlines.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]" 
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/headlines.json docs/last_run.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update headlines $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main 
+            git push
+          fi
