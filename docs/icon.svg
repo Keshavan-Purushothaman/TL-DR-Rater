@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#16181d"/>
+  <text x="256" y="262" text-anchor="middle" font-family="system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif" font-weight="900" font-size="150" fill="#ffffff" letter-spacing="-6">TL<tspan fill="#8ab8ec">;</tspan>DR</text>
+  <g fill="none" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 362l44 44M194 362l-44 44" stroke="#ee8080"/>
+    <path d="m256 348 14 28 31 5-22 22 5 31-28-15-28 15 5-31-22-22 31-5z" stroke="#f0bd4a" stroke-width="16"/>
+    <path d="m318 386 22 22 44-48" stroke="#56c79a"/>
+  </g>
+</svg>

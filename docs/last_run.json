@@ -1,0 +1,326 @@
+{
+ "feeds": [
+  {
+   "feed": "NDTV India",
+   "section": "India",
+   "ok": true,
+   "raw": 20,
+   "kept": 20,
+   "error": ""
+  },
+  {
+   "feed": "Scroll",
+   "section": "India",
+   "ok": true,
+   "raw": 100,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Google News India",
+   "section": "India",
+   "ok": true,
+   "raw": 69,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Google News World",
+   "section": "World",
+   "ok": true,
+   "raw": 70,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Google News Bengaluru",
+   "section": "Bengaluru",
+   "ok": true,
+   "raw": 100,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Google News Hyderabad",
+   "section": "Hyderabad",
+   "ok": true,
+   "raw": 100,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Google News Business",
+   "section": "Business",
+   "ok": true,
+   "raw": 70,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Google News Sports",
+   "section": "Sports",
+   "ok": true,
+   "raw": 53,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Google News India cricket",
+   "section": "Sports",
+   "ok": true,
+   "raw": 100,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Google News Entertainment",
+   "section": "Movies",
+   "ok": true,
+   "raw": 70,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Google News Telugu movies",
+   "section": "Movies",
+   "ok": true,
+   "raw": 100,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Google News Kannada movies",
+   "section": "Movies",
+   "ok": true,
+   "raw": 33,
+   "kept": 33,
+   "error": ""
+  },
+  {
+   "feed": "Google News Tamil movies",
+   "section": "Movies",
+   "ok": true,
+   "raw": 83,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Google News Technology",
+   "section": "Tech/Science",
+   "ok": true,
+   "raw": 70,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Google News Science",
+   "section": "Tech/Science",
+   "ok": true,
+   "raw": 70,
+   "kept": 40,
+   "error": ""
+  }
+ ],
+ "dropped": {
+  "video": 9,
+  "listing": 9,
+  "live": 9,
+  "horoscope": 4,
+  "gallery": 1,
+  "puzzle": 1
+ },
+ "dropped_sample": [
+  {
+   "reason": "video",
+   "feed": "Scroll",
+   "title": "Why the killing of an anti-drug activist has Punjab up in arms"
+  },
+  {
+   "reason": "video",
+   "feed": "Scroll",
+   "title": "Watch: ‘Jijai’ stars Rinku Rajguru as a fighter against harassment and violence"
+  },
+  {
+   "reason": "video",
+   "feed": "Scroll",
+   "title": "Helle Lyng on visa cancellation: ‘I was told it is on orders from above’"
+  },
+  {
+   "reason": "video",
+   "feed": "Scroll",
+   "title": "Watch: Marathi film ‘Chikeezing’ follows a naughty boy’s adventures"
+  },
+  {
+   "reason": "video",
+   "feed": "Google News World",
+   "title": "Watch: Protest outside London Indian restaurant over refusal to serve halal food"
+  },
+  {
+   "reason": "listing",
+   "feed": "Google News Bengaluru",
+   "title": "Bengaluru Kempegowda International Airport Departures"
+  },
+  {
+   "reason": "live",
+   "feed": "Google News Bengaluru",
+   "title": "FC Bengaluru United vs Real Kashmir live score, H2H and lineups"
+  },
+  {
+   "reason": "listing",
+   "feed": "Google News Hyderabad",
+   "title": "Gold rate today in Hyderabad, November 15, 2026: Check 22K, 24K and 18K gold prices"
+  },
+  {
+   "reason": "listing",
+   "feed": "Google News Hyderabad",
+   "title": "Gold Rates Today In Hyderabad On Nov. 15, 2026"
+  },
+  {
+   "reason": "listing",
+   "feed": "Google News Hyderabad",
+   "title": "Gold, silver prices today, 15 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai,"
+  },
+  {
+   "reason": "listing",
+   "feed": "Google News Hyderabad",
+   "title": "Hyderabad Rajiv Gandhi International Airport Arrivals"
+  },
+  {
+   "reason": "listing",
+   "feed": "Google News Business",
+   "title": "Dividend Stocks To Watch This Week: Ashok Leyland, Cochin Shipyard, MRF, Oil India, Power Finance Corporation,"
+  },
+  {
+   "reason": "listing",
+   "feed": "Google News Business",
+   "title": "Gold, silver prices today, 15 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai,"
+  },
+  {
+   "reason": "listing",
+   "feed": "Google News Business",
+   "title": "Dividend stock to buy: TD Power shares rally 369% in 3 years, more upside ahead? Check target price before rec"
+  },
+  {
+   "reason": "live",
+   "feed": "Google News Sports",
+   "title": "New Zealand: 161/8(42.4) | IND vs NZ 5th ODI Match - Live Cricket Score, Full Scorecard, Bay Oval, Mount Maung"
+  },
+  {
+   "reason": "live",
+   "feed": "Google News Sports",
+   "title": "Latest cricket news, live scores and video"
+  },
+  {
+   "reason": "live",
+   "feed": "Google News India cricket",
+   "title": "India tour of Japan, 2026 schedule, live scores and results"
+  },
+  {
+   "reason": "live",
+   "feed": "Google News India cricket",
+   "title": "India vs New Zealand Free LIVE Telecast, 5th ODI LIVE Streaming: When And Where To Watch IND vs NZ For Free"
+  },
+  {
+   "reason": "live",
+   "feed": "Google News India cricket",
+   "title": "India vs Pakistan U19 Asia Cup final: When and where to watch live telecast, streaming"
+  },
+  {
+   "reason": "live",
+   "feed": "Google News India cricket",
+   "title": "Australia vs England, 2nd ODI Live Streaming: When And Where To Watch Live Telecast"
+  },
+  {
+   "reason": "live",
+   "feed": "Google News India cricket",
+   "title": "South Africa vs Bangladesh LIVE Telecast, 1st Test LIVE Streaming: When And Where To Watch"
+  },
+  {
+   "reason": "live",
+   "feed": "Google News India cricket",
+   "title": "India vs New Zealand LIVE Streaming, 5th ODI LIVE Telecast: When And Where To Watch IND vs NZ"
+  },
+  {
+   "reason": "video",
+   "feed": "Google News India cricket",
+   "title": "WATCH: Mohit Ulva's last-ball boundary seals India's thrilling U-19 Asia Cup triumph over Pakistan"
+  },
+  {
+   "reason": "horoscope",
+   "feed": "Google News Entertainment",
+   "title": "Gemini Horoscope Today: November 15, 2026"
+  },
+  {
+   "reason": "horoscope",
+   "feed": "Google News Entertainment",
+   "title": "Libra Horoscope Today: November 15, 2026"
+  },
+  {
+   "reason": "horoscope",
+   "feed": "Google News Entertainment",
+   "title": "Taurus, Weekly Horoscope, November 15 to November 21, 2026: Welcome financial gains, career progress and"
+  },
+  {
+   "reason": "horoscope",
+   "feed": "Google News Entertainment",
+   "title": "Leo Horoscope Today: November 15, 2026"
+  },
+  {
+   "reason": "listing",
+   "feed": "Google News Telugu movies",
+   "title": "Dear Astronaut Movie: Showtimes, Review, Songs, Trailer, Posters, News & Videos | eTimes"
+  },
+  {
+   "reason": "gallery",
+   "feed": "Google News Telugu movies",
+   "title": "Photos: Celebrities Pay Their Last Respects to Giri Babu"
+  },
+  {
+   "reason": "video",
+   "feed": "Google News Telugu movies",
+   "title": "Video : OM Telugu Trailer (Dhanush, Mammootty, Sai Pallavi)"
+  },
+  {
+   "reason": "video",
+   "feed": "Google News Telugu movies",
+   "title": "Video : Dada – Dada Dhamaka Lyrical ( Balakrishna, Nargis Fakhri )"
+  },
+  {
+   "reason": "puzzle",
+   "feed": "Google News Technology",
+   "title": "Today's NYT Strands Hints (and Answer) for Saturday, November 14, 2026"
+  },
+  {
+   "reason": "video",
+   "feed": "Google News Technology",
+   "title": "Video | Adobe MAX 2026: AI Takes Over Creative Workflows | Range Rover SV Sawai | NVIDIA CEO Exit | Tech360"
+  }
+ ],
+ "too_old": 119,
+ "generated_at": "2026-11-15T10:05:23+00:00",
+ "feeds_ok": 15,
+ "feeds_total": 15,
+ "after_filter": 573,
+ "repeats_merged": 18,
+ "available": {
+  "India": 94,
+  "World": 37,
+  "Bengaluru": 40,
+  "Hyderabad": 40,
+  "Business": 39,
+  "Sports": 77,
+  "Movies": 148,
+  "Tech/Science": 80
+ },
+ "written": {
+  "India": 60,
+  "World": 37,
+  "Bengaluru": 40,
+  "Hyderabad": 40,
+  "Business": 39,
+  "Sports": 60,
+  "Movies": 60,
+  "Tech/Science": 60
+ },
+ "seconds": 2.2
+}
