@@ -1,11 +1,43 @@
 {
  "feeds": [
   {
+   "feed": "The Hindu National",
+   "section": "India",
+   "ok": true,
+   "raw": 60,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "BBC India",
+   "section": "India",
+   "ok": true,
+   "raw": 21,
+   "kept": 2,
+   "error": ""
+  },
+  {
    "feed": "NDTV India",
    "section": "India",
    "ok": true,
    "raw": 20,
    "kept": 20,
+   "error": ""
+  },
+  {
+   "feed": "Hindustan Times India",
+   "section": "India",
+   "ok": true,
+   "raw": 100,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Times of India India",
+   "section": "India",
+   "ok": true,
+   "raw": 20,
+   "kept": 19,
    "error": ""
   },
   {
@@ -17,11 +49,51 @@
    "error": ""
   },
   {
+   "feed": "The News Minute",
+   "section": "India",
+   "ok": true,
+   "raw": 10,
+   "kept": 8,
+   "error": ""
+  },
+  {
    "feed": "Google News India",
    "section": "India",
    "ok": true,
-   "raw": 69,
+   "raw": 62,
    "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "The Hindu International",
+   "section": "World",
+   "ok": true,
+   "raw": 60,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "BBC World",
+   "section": "World",
+   "ok": true,
+   "raw": 34,
+   "kept": 29,
+   "error": ""
+  },
+  {
+   "feed": "Al Jazeera",
+   "section": "World",
+   "ok": true,
+   "raw": 25,
+   "kept": 19,
+   "error": ""
+  },
+  {
+   "feed": "The Guardian World",
+   "section": "World",
+   "ok": true,
+   "raw": 45,
+   "kept": 36,
    "error": ""
   },
   {
@@ -33,11 +105,51 @@
    "error": ""
   },
   {
+   "feed": "The Hindu Bengaluru",
+   "section": "Bengaluru",
+   "ok": true,
+   "raw": 60,
+   "kept": 27,
+   "error": ""
+  },
+  {
+   "feed": "Times of India Bengaluru",
+   "section": "Bengaluru",
+   "ok": true,
+   "raw": 20,
+   "kept": 20,
+   "error": ""
+  },
+  {
+   "feed": "Hindustan Times Bengaluru",
+   "section": "Bengaluru",
+   "ok": true,
+   "raw": 2,
+   "kept": 2,
+   "error": ""
+  },
+  {
    "feed": "Google News Bengaluru",
    "section": "Bengaluru",
    "ok": true,
    "raw": 100,
    "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "The Hindu Hyderabad",
+   "section": "Hyderabad",
+   "ok": true,
+   "raw": 60,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Times of India Hyderabad",
+   "section": "Hyderabad",
+   "ok": true,
+   "raw": 20,
+   "kept": 20,
    "error": ""
   },
   {
@@ -49,6 +161,54 @@
    "error": ""
   },
   {
+   "feed": "The Hindu Business",
+   "section": "Business",
+   "ok": true,
+   "raw": 60,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Mint",
+   "section": "Business",
+   "ok": true,
+   "raw": 35,
+   "kept": 34,
+   "error": ""
+  },
+  {
+   "feed": "Mint Companies",
+   "section": "Business",
+   "ok": true,
+   "raw": 35,
+   "kept": 35,
+   "error": ""
+  },
+  {
+   "feed": "Economic Times",
+   "section": "Business",
+   "ok": true,
+   "raw": 52,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "BusinessLine",
+   "section": "Business",
+   "ok": true,
+   "raw": 60,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "BBC Business",
+   "section": "Business",
+   "ok": true,
+   "raw": 50,
+   "kept": 23,
+   "error": ""
+  },
+  {
    "feed": "Google News Business",
    "section": "Business",
    "ok": true,
@@ -57,10 +217,82 @@
    "error": ""
   },
   {
+   "feed": "The Hindu Sport",
+   "section": "Sports",
+   "ok": true,
+   "raw": 60,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "The Hindu Cricket",
+   "section": "Sports",
+   "ok": true,
+   "raw": 60,
+   "kept": 39,
+   "error": ""
+  },
+  {
+   "feed": "Sportstar",
+   "section": "Sports",
+   "ok": true,
+   "raw": 68,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "ESPNcricinfo",
+   "section": "Sports",
+   "ok": true,
+   "raw": 100,
+   "kept": 36,
+   "error": ""
+  },
+  {
+   "feed": "BBC Sport",
+   "section": "Sports",
+   "ok": true,
+   "raw": 68,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "BBC Cricket",
+   "section": "Sports",
+   "ok": true,
+   "raw": 30,
+   "kept": 13,
+   "error": ""
+  },
+  {
+   "feed": "Hindustan Times Cricket",
+   "section": "Sports",
+   "ok": true,
+   "raw": 33,
+   "kept": 32,
+   "error": ""
+  },
+  {
+   "feed": "Hindustan Times Sports",
+   "section": "Sports",
+   "ok": true,
+   "raw": 27,
+   "kept": 27,
+   "error": ""
+  },
+  {
+   "feed": "Times of India Sports",
+   "section": "Sports",
+   "ok": true,
+   "raw": 20,
+   "kept": 19,
+   "error": ""
+  },
+  {
    "feed": "Google News Sports",
    "section": "Sports",
    "ok": true,
-   "raw": 53,
+   "raw": 52,
    "kept": 40,
    "error": ""
   },
@@ -73,10 +305,98 @@
    "error": ""
   },
   {
+   "feed": "The Hindu Movies",
+   "section": "Movies",
+   "ok": true,
+   "raw": 60,
+   "kept": 17,
+   "error": ""
+  },
+  {
+   "feed": "The Hindu Reviews",
+   "section": "Movies",
+   "ok": true,
+   "raw": 60,
+   "kept": 6,
+   "error": ""
+  },
+  {
+   "feed": "Hindustan Times Entertainment",
+   "section": "Movies",
+   "ok": true,
+   "raw": 84,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Hindustan Times Bollywood",
+   "section": "Movies",
+   "ok": true,
+   "raw": 43,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "Hindustan Times Telugu cinema",
+   "section": "Movies",
+   "ok": true,
+   "raw": 3,
+   "kept": 3,
+   "error": ""
+  },
+  {
+   "feed": "Hindustan Times Tamil cinema",
+   "section": "Movies",
+   "ok": true,
+   "raw": 4,
+   "kept": 4,
+   "error": ""
+  },
+  {
+   "feed": "Times of India Entertainment",
+   "section": "Movies",
+   "ok": true,
+   "raw": 20,
+   "kept": 19,
+   "error": ""
+  },
+  {
+   "feed": "Bollywood Hungama",
+   "section": "Movies",
+   "ok": true,
+   "raw": 50,
+   "kept": 21,
+   "error": ""
+  },
+  {
+   "feed": "Cinema Express",
+   "section": "Movies",
+   "ok": true,
+   "raw": 7,
+   "kept": 7,
+   "error": ""
+  },
+  {
+   "feed": "123telugu",
+   "section": "Movies",
+   "ok": true,
+   "raw": 30,
+   "kept": 23,
+   "error": ""
+  },
+  {
+   "feed": "The Guardian Film",
+   "section": "Movies",
+   "ok": true,
+   "raw": 29,
+   "kept": 10,
+   "error": ""
+  },
+  {
    "feed": "Google News Entertainment",
    "section": "Movies",
    "ok": true,
-   "raw": 70,
+   "raw": 59,
    "kept": 40,
    "error": ""
   },
@@ -92,15 +412,87 @@
    "feed": "Google News Kannada movies",
    "section": "Movies",
    "ok": true,
-   "raw": 33,
-   "kept": 33,
+   "raw": 34,
+   "kept": 34,
    "error": ""
   },
   {
    "feed": "Google News Tamil movies",
    "section": "Movies",
    "ok": true,
-   "raw": 83,
+   "raw": 95,
+   "kept": 40,
+   "error": ""
+  },
+  {
+   "feed": "MIT Technology Review AI",
+   "section": "Tech/Science",
+   "ok": true,
+   "raw": 10,
+   "kept": 3,
+   "error": ""
+  },
+  {
+   "feed": "The Verge AI",
+   "section": "Tech/Science",
+   "ok": true,
+   "raw": 10,
+   "kept": 10,
+   "error": ""
+  },
+  {
+   "feed": "The Hindu Science",
+   "section": "Tech/Science",
+   "ok": true,
+   "raw": 60,
+   "kept": 14,
+   "error": ""
+  },
+  {
+   "feed": "The Hindu Technology",
+   "section": "Tech/Science",
+   "ok": true,
+   "raw": 60,
+   "kept": 15,
+   "error": ""
+  },
+  {
+   "feed": "Ars Technica",
+   "section": "Tech/Science",
+   "ok": true,
+   "raw": 20,
+   "kept": 20,
+   "error": ""
+  },
+  {
+   "feed": "TechCrunch",
+   "section": "Tech/Science",
+   "ok": true,
+   "raw": 20,
+   "kept": 20,
+   "error": ""
+  },
+  {
+   "feed": "BBC Technology",
+   "section": "Tech/Science",
+   "ok": true,
+   "raw": 21,
+   "kept": 12,
+   "error": ""
+  },
+  {
+   "feed": "BBC Science",
+   "section": "Tech/Science",
+   "ok": true,
+   "raw": 42,
+   "kept": 18,
+   "error": ""
+  },
+  {
+   "feed": "Nature News",
+   "section": "Tech/Science",
+   "ok": true,
+   "raw": 75,
    "kept": 40,
    "error": ""
   },
@@ -122,38 +514,206 @@
   }
  ],
  "dropped": {
-  "video": 9,
-  "listing": 9,
-  "live": 9,
-  "horoscope": 4,
-  "gallery": 1,
-  "puzzle": 1
+  "live": 32,
+  "video": 59,
+  "opinion": 10,
+  "listing": 10,
+  "quiz": 7,
+  "digest": 3,
+  "podcast": 4,
+  "gallery": 7,
+  "horoscope": 8
  },
  "dropped_sample": [
   {
-   "reason": "video",
-   "feed": "Scroll",
-   "title": "Why the killing of an anti-drug activist has Punjab up in arms"
+   "reason": "live",
+   "feed": "The Hindu National",
+   "title": "Cyclone 'Akvan' LIVE updates: Over one lakh evacuated in Odisha as landfall likely near Gopalpur; red alert fo"
   },
   {
    "reason": "video",
-   "feed": "Scroll",
-   "title": "Watch: ‘Jijai’ stars Rinku Rajguru as a fighter against harassment and violence"
+   "feed": "The Hindu National",
+   "title": "Pew report predicts Islam will become the world’s largest religion by 2035"
   },
   {
    "reason": "video",
-   "feed": "Scroll",
-   "title": "Helle Lyng on visa cancellation: ‘I was told it is on orders from above’"
+   "feed": "The Hindu National",
+   "title": "The real story behind the ASEAN, EAS and Quad meetings | The Hindu Editorial"
   },
   {
    "reason": "video",
-   "feed": "Scroll",
-   "title": "Watch: Marathi film ‘Chikeezing’ follows a naughty boy’s adventures"
+   "feed": "The Hindu National",
+   "title": "What in Sonia Gandhi’s memoir has triggered such a massive political row?"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC India",
+   "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC India",
+   "title": "William and Kate on Earthshot Prize green carpet in Mumbai"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC India",
+   "title": "Prince and Princess of Wales play street cricket in Mumbai"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC India",
+   "title": "Film star Ranbir Kapoor on AI, movies and fatherhood"
+  },
+  {
+   "reason": "live",
+   "feed": "Hindustan Times India",
+   "title": "Cyclone Akvan LIVE: Odisha evacuates over 1 lakh ahead of landfall; rescue teams deployed in Malkangiri, Ganja"
+  },
+  {
+   "reason": "video",
+   "feed": "Times of India India",
+   "title": "Watch: On way to meet Putin, Trump lends helping hand to Xi Jinping on escalator"
+  },
+  {
+   "reason": "video",
+   "feed": "The News Minute",
+   "title": "Is Bengaluru's ₹22,000-crore tunnel road worth the cost?"
+  },
+  {
+   "reason": "video",
+   "feed": "The News Minute",
+   "title": "The case against trans rights dressed up as a fight for women's rights"
+  },
+  {
+   "reason": "live",
+   "feed": "Google News India",
+   "title": "Cyclone 'Akvan' LIVE updates: Over one lakh evacuated in Odisha as landfall likely near Gopalpur; red alert fo"
+  },
+  {
+   "reason": "video",
+   "feed": "Google News India",
+   "title": "Akhilesh Yadav Gets ‘Bulldozer Welcome’ In Yogi Adityanath’s Gorakhpur Bastion | Watch"
+  },
+  {
+   "reason": "live",
+   "feed": "The Hindu International",
+   "title": "Xi-Trump-Putin trilateral meeting LIVE: Xi-Trump-Putin summit in China ends; no peace ever forged by declining"
+  },
+  {
+   "reason": "video",
+   "feed": "The Hindu International",
+   "title": "Watch: Trump, Xi and Putin to hold historic trilateral talks in China on APEC sidelines"
+  },
+  {
+   "reason": "opinion",
+   "feed": "The Hindu International",
+   "title": "All-too fallible: On India’s vote against moratorium on death penalty"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC World",
+   "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC World",
+   "title": "Why has Waymo pulled all its driverless cars from US freeways?"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC World",
+   "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC World",
+   "title": "New video shows explosions moments before part of Crimea Bridge collapses"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC World",
+   "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting"
+  },
+  {
+   "reason": "video",
+   "feed": "Al Jazeera",
+   "title": "Trump calls for nuclear arms reduction at APEC summit"
+  },
+  {
+   "reason": "video",
+   "feed": "Al Jazeera",
+   "title": "Is Trump helping rehabilitate Putin on the world stage?"
+  },
+  {
+   "reason": "video",
+   "feed": "Al Jazeera",
+   "title": "‘It’s my friend’: Moment Trump greets Putin at China summit"
+  },
+  {
+   "reason": "opinion",
+   "feed": "Al Jazeera",
+   "title": "Could Trump, Putin and Xi end the nuclear age?"
+  },
+  {
+   "reason": "opinion",
+   "feed": "Al Jazeera",
+   "title": "The Xi-Putin-Trump summit will not be a ‘new Yalta’"
+  },
+  {
+   "reason": "video",
+   "feed": "Al Jazeera",
+   "title": "Trump wants to talk nuclear with Putin and Xi"
+  },
+  {
+   "reason": "live",
+   "feed": "The Guardian World",
+   "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’"
+  },
+  {
+   "reason": "live",
+   "feed": "The Guardian World",
+   "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live"
+  },
+  {
+   "reason": "live",
+   "feed": "The Guardian World",
+   "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politic"
+  },
+  {
+   "reason": "live",
+   "feed": "The Guardian World",
+   "title": "Hakeem Jeffries on brink of Senate history as he tells Democrats to ‘fight Maga, not each other’ – US politics"
+  },
+  {
+   "reason": "live",
+   "feed": "The Guardian World",
+   "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened"
   },
   {
    "reason": "video",
    "feed": "Google News World",
-   "title": "Watch: Protest outside London Indian restaurant over refusal to serve halal food"
+   "title": "Watch: On way to meet Putin, Trump lends helping hand to Xi Jinping on escalator"
+  },
+  {
+   "reason": "video",
+   "feed": "Google News World",
+   "title": "Video: PM Modi, World Leaders Ride Through Manila In Colourful Tuk-Tuks"
+  },
+  {
+   "reason": "live",
+   "feed": "Google News World",
+   "title": "Trump signs Thai trade deal as protests greet his arrival in Manila – as it happened"
+  },
+  {
+   "reason": "video",
+   "feed": "The Hindu Bengaluru",
+   "title": "Chikkanna interview: On ‘Lakshmiputhra’, working with Yash and turning hero"
+  },
+  {
+   "reason": "video",
+   "feed": "The Hindu Bengaluru",
+   "title": "Namma Metro Pink Line: Will it ease traffic congestion? | Decode Karnataka"
   },
   {
    "reason": "listing",
@@ -161,166 +721,236 @@
    "title": "Bengaluru Kempegowda International Airport Departures"
   },
   {
-   "reason": "live",
+   "reason": "listing",
    "feed": "Google News Bengaluru",
-   "title": "FC Bengaluru United vs Real Kashmir live score, H2H and lineups"
+   "title": "Gold Rate Today November 19: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad"
   },
   {
    "reason": "listing",
    "feed": "Google News Hyderabad",
-   "title": "Gold rate today in Hyderabad, November 15, 2026: Check 22K, 24K and 18K gold prices"
+   "title": "Gold Prices Today In Hyderabad: 22K, 24K Rates"
   },
   {
    "reason": "listing",
    "feed": "Google News Hyderabad",
-   "title": "Gold Rates Today In Hyderabad On Nov. 15, 2026"
+   "title": "Gold rate today 22k 19 November: Check city prices of Chennai, Bangalore, Coimbatore, Hyderabad, Mumbai, Surat"
   },
   {
    "reason": "listing",
    "feed": "Google News Hyderabad",
-   "title": "Gold, silver prices today, 15 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai,"
+   "title": "Gold rate today in Hyderabad, November 19, 2026: Check 22K, 24K and 18K gold prices"
+  },
+  {
+   "reason": "opinion",
+   "feed": "The Hindu Business",
+   "title": "A poverty line that falls short"
   },
   {
    "reason": "listing",
-   "feed": "Google News Hyderabad",
-   "title": "Hyderabad Rajiv Gandhi International Airport Arrivals"
+   "feed": "Mint",
+   "title": "Petrol and diesel prices today, November 19: Check fuel rates in different cities across India"
+  },
+  {
+   "reason": "listing",
+   "feed": "Economic Times",
+   "title": "Gold, silver rates today: Check prices across brands"
+  },
+  {
+   "reason": "live",
+   "feed": "BusinessLine",
+   "title": "Sensex today | Stock Market Highlights: Sensex surges 989 pts to 83,021; Nifty up 286 pts at 25,514; Auto stoc"
+  },
+  {
+   "reason": "quiz",
+   "feed": "BusinessLine",
+   "title": "Quiz on Air Quality Index (AQI) in India"
+  },
+  {
+   "reason": "video",
+   "feed": "BusinessLine",
+   "title": "Trump-Xi-Putin Meet Explainer: What could the rare Troika summit mean for India and the world?"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC Business",
+   "title": "Why has Waymo pulled all its driverless cars from US freeways?"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC Business",
+   "title": "How high is UK inflation and how will you be affected?"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC Business",
+   "title": "Who are the investors ready to jump on Anthropic?"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC Business",
+   "title": "How high is UK inflation and how will you be affected?"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC Business",
+   "title": "Immigration arrests after organised crime blitz"
+  },
+  {
+   "reason": "digest",
+   "feed": "Google News Business",
+   "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test"
   },
   {
    "reason": "listing",
    "feed": "Google News Business",
-   "title": "Dividend Stocks To Watch This Week: Ashok Leyland, Cochin Shipyard, MRF, Oil India, Power Finance Corporation,"
+   "title": "Stocks to Watch for November 19: Jio Financial, LT Foods, NALCO and more"
   },
   {
-   "reason": "listing",
-   "feed": "Google News Business",
-   "title": "Gold, silver prices today, 15 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai,"
+   "reason": "opinion",
+   "feed": "The Hindu Sport",
+   "title": "Testing times: On India’s two-Test series against New Zealand"
   },
   {
-   "reason": "listing",
-   "feed": "Google News Business",
-   "title": "Dividend stock to buy: TD Power shares rally 369% in 3 years, more upside ahead? Check target price before rec"
-  },
-  {
-   "reason": "live",
-   "feed": "Google News Sports",
-   "title": "New Zealand: 161/8(42.4) | IND vs NZ 5th ODI Match - Live Cricket Score, Full Scorecard, Bay Oval, Mount Maung"
+   "reason": "quiz",
+   "feed": "The Hindu Sport",
+   "title": "Daily Quiz: On Chess players"
   },
   {
    "reason": "live",
-   "feed": "Google News Sports",
-   "title": "Latest cricket news, live scores and video"
+   "feed": "The Hindu Sport",
+   "title": "IPL 2027 retention highlights: Dhoni retires, teams announce lists of released and retained players as deadlin"
+  },
+  {
+   "reason": "opinion",
+   "feed": "The Hindu Cricket",
+   "title": "Testing times: On India’s two-Test series against New Zealand"
   },
   {
    "reason": "live",
-   "feed": "Google News India cricket",
-   "title": "India tour of Japan, 2026 schedule, live scores and results"
+   "feed": "The Hindu Cricket",
+   "title": "IPL 2027 retention highlights: Dhoni retires, teams announce lists of released and retained players as deadlin"
   },
   {
    "reason": "live",
-   "feed": "Google News India cricket",
-   "title": "India vs New Zealand Free LIVE Telecast, 5th ODI LIVE Streaming: When And Where To Watch IND vs NZ For Free"
+   "feed": "Sportstar",
+   "title": "Women’s Asian Champions Trophy 2026: India schedule, fixtures, teams, live streaming details"
   },
   {
    "reason": "live",
-   "feed": "Google News India cricket",
-   "title": "India vs Pakistan U19 Asia Cup final: When and where to watch live telecast, streaming"
+   "feed": "Sportstar",
+   "title": "PAK vs SL, 2nd Test Day 3 LIVE score: Sri Lanka looking to take lead against Pakistan; Real-time updates, comm"
   },
   {
    "reason": "live",
-   "feed": "Google News India cricket",
-   "title": "Australia vs England, 2nd ODI Live Streaming: When And Where To Watch Live Telecast"
+   "feed": "Sportstar",
+   "title": "Lakshya Sen vs Rasmus Gemke LIVE streaming info: Where to watch Hong Kong Open 2026 Round of 16 match?"
   },
   {
    "reason": "live",
-   "feed": "Google News India cricket",
-   "title": "South Africa vs Bangladesh LIVE Telecast, 1st Test LIVE Streaming: When And Where To Watch"
+   "feed": "Sportstar",
+   "title": "Satwik-Chirag vs Nur-Tan LIVE streaming info: Where to watch Hong Kong Open 2026 Round of 16 match?"
   },
   {
    "reason": "live",
-   "feed": "Google News India cricket",
-   "title": "India vs New Zealand LIVE Streaming, 5th ODI LIVE Telecast: When And Where To Watch IND vs NZ"
+   "feed": "Sportstar",
+   "title": "India vs New Zealand Live Streaming Info: How to watch the 1st Test match?"
+  },
+  {
+   "reason": "opinion",
+   "feed": "Sportstar",
+   "title": "When sport meets fiction: The search for a great sports novel"
+  },
+  {
+   "reason": "live",
+   "feed": "Sportstar",
+   "title": "PAK vs SL, 2nd Test Day 2 Highlights: Sri Lanka trails by 153 runs"
+  },
+  {
+   "reason": "live",
+   "feed": "Sportstar",
+   "title": "AUS vs ENG, 3rd ODI Highlights: England wins series 2-1 with 97-run victory"
+  },
+  {
+   "reason": "quiz",
+   "feed": "BBC Sport",
+   "title": "Weekly sports quiz: When did England last beat the men's world champions?"
   },
   {
    "reason": "video",
-   "feed": "Google News India cricket",
-   "title": "WATCH: Mohit Ulva's last-ball boundary seals India's thrilling U-19 Asia Cup triumph over Pakistan"
-  },
-  {
-   "reason": "horoscope",
-   "feed": "Google News Entertainment",
-   "title": "Gemini Horoscope Today: November 15, 2026"
-  },
-  {
-   "reason": "horoscope",
-   "feed": "Google News Entertainment",
-   "title": "Libra Horoscope Today: November 15, 2026"
-  },
-  {
-   "reason": "horoscope",
-   "feed": "Google News Entertainment",
-   "title": "Taurus, Weekly Horoscope, November 15 to November 21, 2026: Welcome financial gains, career progress and"
-  },
-  {
-   "reason": "horoscope",
-   "feed": "Google News Entertainment",
-   "title": "Leo Horoscope Today: November 15, 2026"
-  },
-  {
-   "reason": "listing",
-   "feed": "Google News Telugu movies",
-   "title": "Dear Astronaut Movie: Showtimes, Review, Songs, Trailer, Posters, News & Videos | eTimes"
-  },
-  {
-   "reason": "gallery",
-   "feed": "Google News Telugu movies",
-   "title": "Photos: Celebrities Pay Their Last Respects to Giri Babu"
+   "feed": "BBC Sport",
+   "title": "Buurman rescues late Chelsea win against PSG"
   },
   {
    "reason": "video",
-   "feed": "Google News Telugu movies",
-   "title": "Video : OM Telugu Trailer (Dhanush, Mammootty, Sai Pallavi)"
+   "feed": "BBC Sport",
+   "title": "Hemp and Shaw star as Manchester City get vital win at Hacken"
   },
   {
    "reason": "video",
-   "feed": "Google News Telugu movies",
-   "title": "Video : Dada – Dada Dhamaka Lyrical ( Balakrishna, Nargis Fakhri )"
-  },
-  {
-   "reason": "puzzle",
-   "feed": "Google News Technology",
-   "title": "Today's NYT Strands Hints (and Answer) for Saturday, November 14, 2026"
+   "feed": "BBC Sport",
+   "title": "Highlights: Ten-man Portugal beat Wales to top group"
   },
   {
    "reason": "video",
-   "feed": "Google News Technology",
-   "title": "Video | Adobe MAX 2026: AI Takes Over Creative Workflows | Range Rover SV Sawai | NVIDIA CEO Exit | Tech360"
+   "feed": "BBC Sport",
+   "title": "Watch as Scotland slump to 4-0 defeat in Switzerland"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC Sport",
+   "title": "Chargers earn first victory of the season against the Ravens"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC Sport",
+   "title": "'Best I've seen live': Watch as player scores ‘special’ goal"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC Sport",
+   "title": "From Watford to world champion"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC Sport",
+   "title": "Can Northern Ireland hit the right notes in Budapest?"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC Sport",
+   "title": "'Switzerland didn't have better players but were better team'"
+  },
+  {
+   "reason": "video",
+   "feed": "BBC Sport",
+   "title": "Sacks, picks and 'a bag of tricks' - NFL best plays"
   }
  ],
- "too_old": 119,
- "generated_at": "2026-11-15T10:05:23+00:00",
- "feeds_ok": 15,
- "feeds_total": 15,
- "after_filter": 573,
- "repeats_merged": 18,
+ "too_old": 559,
+ "generated_at": "2026-11-19T11:16:47+00:00",
+ "feeds_ok": 64,
+ "feeds_total": 64,
+ "after_filter": 1756,
+ "repeats_merged": 192,
  "available": {
-  "India": 94,
-  "World": 37,
-  "Bengaluru": 40,
-  "Hyderabad": 40,
-  "Business": 39,
-  "Sports": 77,
-  "Movies": 148,
-  "Tech/Science": 80
+  "India": 193,
+  "World": 138,
+  "Bengaluru": 84,
+  "Hyderabad": 92,
+  "Business": 232,
+  "Sports": 312,
+  "Movies": 292,
+  "Tech/Science": 221
  },
  "written": {
   "India": 60,
-  "World": 37,
-  "Bengaluru": 40,
-  "Hyderabad": 40,
-  "Business": 39,
+  "World": 60,
+  "Bengaluru": 60,
+  "Hyderabad": 60,
+  "Business": 60,
   "Sports": 60,
   "Movies": 60,
   "Tech/Science": 60
  },
- "seconds": 2.2
+ "seconds": 3.3
 }
